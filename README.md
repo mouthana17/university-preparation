@@ -33,11 +33,11 @@ My strategic plan to join University of Genova - Tracking academic, language, an
 (My priority: Being an active human in society)
 
 #### 🏥 Red Crescent Tunisia Involvement
-- [ ] **Join local branch**
-- [ ] **Complete first aid training**
-- [ ] **Participate in 3 field operations** 
-- [ ] **Lead a community outreach program** 
-- [ ] **Document humanitarian experiences**  
+- [] **Join local branch**
+- [] **Complete first aid training**
+- [] **Participate in 3 field operations** 
+- [] **Lead a community outreach program** 
+- [] **Document humanitarian experiences**  
 
 ### 🇮🇹 Italian Language Journey (Updated Timeline)
 
@@ -60,9 +60,9 @@ My strategic plan to join University of Genova - Tracking academic, language, an
 ### ✅ 2025-2026 Academic Year Checkpoints
 
 #### December 2025 - First Trimester
-- [ ] 15/20 achieved
-- [ ] Red Crescent membership application submitted
-- [ ] Italian A1 level
+- [❌] 15/20 achieved
+- [❌] Red Crescent membership application submitted
+- [✅] Italian A1 level
 
 #### March 2026 - Second Trimester  
 - [ ] 16/20 achieved
