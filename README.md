@@ -12,8 +12,8 @@ My strategic plan to join University of Genova - Tracking academic, language, an
 #### 🎓 Academic Year 2025-2026 - Third Year High School (Baccalaureate Year)
 | Period | Target Grade | Focus Area | Status |
 |--------|--------------|------------|--------|
-| **First Trimester** (Dec 2025) | **15/20** | Establishing strong fundamentals | in progress 🔄|  
-| **Second Trimester** (Mar 2026) | **16/20** | Advanced concepts mastery | ⏳ Planned |
+| **First Trimester** (Dec 2025) | **15/20** | Establishing strong fundamentals |❌|  im sorry i do not  know what happened with me
+| **Second Trimester** (Mar 2026) | **16/20** | Advanced concepts mastery |in progress|
 | **Third Trimester** (Jun 2026) | **17/20** | Excellence & preparation for finals | ⏳ Planned |
 | **Baccalaureate Exam** (Jul 2026) | **18/20** | Final achievement | ⏳ Planned |
 
